@@ -1,0 +1,86 @@
+
+
+  *{
+      margin: 0;
+      padding: 0;
+  }
+
+
+  body{
+      background: #131aa1;
+      color: #FFFFFF;
+}
+
+   div{
+     background: #0d2a91;
+     border-radius: 10px;
+     border: solid 3px rgb(116, 0, 0);
+     text-align: center;
+     padding: 10px;
+     margin: 10px;
+ 
+}
+
+    #caixa3 {
+      background: #0a0079;
+      width: 50%;
+}
+
+    .caixa-menor{
+
+        background: #091293;
+        width: 50%;
+
+    }
+
+    .conteiner{
+
+        width: 200px;
+        height: 200px;
+        padding: 0;
+    }
+
+
+    .esconder{
+
+        display: none;
+    }
+
+    .bloco{
+
+        padding: o;
+        margin: 0;
+        background: #861919;
+        width: 200px;
+        height: 200px;
+
+    }
+
+    
+    
+
+
+    .b1{
+        background: rgb(64, 32, 160);
+        float: left;
+    }
+
+    .b2{
+        background: rgb(29, 31, 161);
+        float: left;
+    }
+
+
+    .b3{
+    
+        background: red;
+        float: left;
+
+    }
+
+    .b4{
+         background: red ;
+         float: left;
+    }
+
+
